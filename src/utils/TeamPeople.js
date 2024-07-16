@@ -1,6 +1,6 @@
-import Aldi from "../assets/images/People/Aldi.jpg"
-import Dadang from "../assets/images/People/Dadang.jpg"
-import Gilbert from "../assets/images/People/Gilbert.jpg"
+import Aldi from "../assets/images/team-member.jpg"
+import Dadang from "../assets/images/team-member.jpg"
+import Gilbert from "../assets/images/team-member.jpg"
 
 const TeamPeople = [
     {
